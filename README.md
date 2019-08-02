@@ -28,6 +28,30 @@ Here are examples of the different methods available for interacting with the AP
 
 <br/><br/>
 
+## Units of Measurement
+
+### Exoplanets
+
+|   Property    |  Unit   |
+| :-----------: | :-----: |
+| semiMajorAxis |   AU    |
+| orbitalPeriod |  days   |
+|     mass      | Jupiter |
+|    radius     | Jupiter |
+|    density    | g/cm^3  |
+
+<br/><br/>
+
+### Stars
+
+| Property | Unit  |
+| :------: | :---: |
+|   mass   | Solar |
+| effTemp  |   K   |
+|  radius  | Solar |
+
+<br/><br/>
+
 ## Installing
 
 - Fork this repository
