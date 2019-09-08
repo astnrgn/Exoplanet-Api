@@ -2,7 +2,7 @@
 
 This is an API of exoplanets and their host stars using the open-source Confirmed Planets data provided by the NASA Exoplanet Science Institute (https://exoplanetarchive.ipac.caltech.edu/index.html).
 
-In this API, the exoplanets include a new property called "habitability"; a boolean representing whether or not the exoplanet is in the habitability zone of its host star. The determination of this value was calculated using equations provided by the NASA Exoplanet Science Institute (https://exoplanetarchive.ipac.caltech.edu/docs/poet_calculations.html).
+In this API, the exoplanets include a new property called "habitability", a boolean representing whether or not the exoplanet is in the habitability zone of its host star. The determination of this value was calculated using equations provided by the NASA Exoplanet Science Institute (https://exoplanetarchive.ipac.caltech.edu/docs/poet_calculations.html).
 
 <br/><br/>
 
